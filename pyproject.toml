@@ -3,3 +3,4 @@ name = "contractguard"
 version = "0.1.0"
 description = "AI agent that reads the fine print so you don't have to. Upload any contract → get red flags, unfair terms, and plain-English explanations in seconds."
 requires-python = ">=3.10"
+# drop an unused branch
