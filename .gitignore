@@ -4,3 +4,4 @@ dist/
 *.pyc
 *.log
 __pycache__/
+tmp/
